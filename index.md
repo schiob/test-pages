@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Paginita de Saul
 
-You can use the [editor on GitHub](https://github.com/schiob/test-pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Esta paginita la puedes modificar en github, solo tienes que aprender un poquito markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Y cada vez que haces un commit se actualiza la página, todo es grapa y puedes meterle todo el contenido que quieras.
 
 ### Markdown
 
